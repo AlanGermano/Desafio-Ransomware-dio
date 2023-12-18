@@ -1,2 +1,2 @@
 # Desafio-Ransomware-dio
-Criando um arquivo criptografado usando ransomwares
+Criando um arquivo e criptografando usando ransomware
